@@ -20,7 +20,7 @@ I work on the **automatic discovery of LLM failure modes**: curious agents that 
 
 ### Research
 
-| | |
+| Project | Links |
 |:--|:--|
 | **Pinductor** · NeurIPS 2026 (poster)<br><sub>An LLM proposes programs as hypotheses about a partially observable world; a particle filter picks among them from observations alone. I introduced vote entropy and worked on generalizing the method.</sub> | [paper](https://arxiv.org/abs/2605.13740) · [code](https://github.com/atomresearch/pinductor) · [interactive](https://mtsfj.github.io/articles/pinductor.html) |
 | **Mapping LLM sycophancy** · work in progress<br><sub>Autotelic quality-diversity search: a loop that invents its own attacks and maps the tactics that make a model give in, a repertoire instead of a score.</sub> | [interactive](https://mtsfj.github.io/articles/sycophancy.html) · [code](https://github.com/mtsfj/autotelic-qd-sycophancy) |
